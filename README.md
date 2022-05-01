@@ -2,6 +2,8 @@
 
 ![imagen-header-montse-sin-emoji](https://user-images.githubusercontent.com/19437570/166144533-ff945160-8325-457f-98f5-14380e90fbfb.png)
 
+
+## About me in code
 ```js
 const mbassas = {
   pronouns: "she | her",
@@ -10,7 +12,7 @@ const mbassas = {
 }
 ```
 
-You can find me 🌍 :
+## You can find me 🌍 :
 - [LinkedIn](https://www.linkedin.com/in/montsebassas)
 
 <!--
