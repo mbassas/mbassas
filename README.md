@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi, I'm Montse 👋 👩‍💻
+
+![imagen-header-montse-sin-emoji](https://user-images.githubusercontent.com/19437570/166144533-ff945160-8325-457f-98f5-14380e90fbfb.png)
+
+```js
+const mbassas = {
+  pronouns: "she | her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Node, Styled-Components, Jest],
+}
+```
+
+You can find me 🌍 :
+- [LinkedIn](https://www.linkedin.com/in/montsebassas)
 
 <!--
 **mbassas/mbassas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
